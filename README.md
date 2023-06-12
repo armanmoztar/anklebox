@@ -1,6 +1,6 @@
 # Anklebox
 
-[![Azure Static Web Apps CI/CD](https://github.com/armanmoztar/anklebox/actions/workflows/azure-static-web-apps-green-sky-081441d1e.yml/badge.svg)](https://github.com/armanmoztar/anklebox/actions/workflows/azure-static-web-apps-green-sky-081441d1e.yml)
+[![Azure Static Web Apps CI/CD](https://github.com/armanmoztar/anklebox/actions/workflows/azure-static-web-apps-kind-tree-02b27171e.yml/badge.svg)](https://github.com/armanmoztar/anklebox/actions/workflows/azure-static-web-apps-kind-tree-02b27171e.yml)
 
 ## Getting Started
 
