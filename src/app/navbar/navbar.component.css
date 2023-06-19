@@ -1,0 +1,28 @@
+nav {
+    background: #333;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+  }
+  
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-links li {
+    display: inline;
+    margin-left: 1rem;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
