@@ -7,7 +7,8 @@
 Anklebox is...
 
 ## Getting Started
-1. Run the command ```npm install``` to install dependencies
+
+1. Run the command `npm install` to install dependencies
 2. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Build
